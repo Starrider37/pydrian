@@ -1,5 +1,3 @@
-
-
 print("             _____   ")      
 print("             (   |")
 print("             O   |")
