@@ -1,2 +1,2 @@
 # pydrian
-Adrian's homebaked piethon programs (Python)
+Adrian's home baked piethon programs (Python)
